@@ -1,3 +1,3 @@
 function name(params,param1) {
-    return params + parms1
+    return params + param1
 }
